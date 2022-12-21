@@ -1,0 +1,1299 @@
+{
+    "_id": {
+      "$oid": "6168bb64ce780303ea7deb2d"
+    },
+    "symbol": "ETHBTC",
+    "buyRatioMin": -4,
+    "buyRatioMax": 50,
+    "buyLimitRatio": 130,
+    "buyTime": 20000,
+    "multiProcessBuyTime": 10000,
+    "sellRatio": 30,
+    "rescueRatio": 30,
+    "rescueTime": 15000,
+    "market": "USDT",
+    "markets": [
+      "USDT"
+    ],
+    "currencyRatio": 80,
+    "maxCurrency": 100,
+    "currency": 30,
+    "stopLimitRatio": 70,
+    "stopLimitTime": 30,
+    "stopLimit2Ratio": 70,
+    "stopLimit2Time": 30,
+    "takeProfitTime": 25,
+    "stopLimitEnabled": false,
+    "stopLimit2Enabled": false,
+    "multipleProcess": false,
+    "dontStopAfterTrade": true,
+    "multipleProcessCurrencyRatio": 70,
+    "multipleProcessBuyLimitRatio": 140,
+    "multipleProcessSellLimitRatio": 160,
+    "enableHourFilter": false,
+    "processMillis": 0,
+    "tenMinuteChangeLimit": 6,
+    "permit": true,
+    "status": "idle",
+    "logs": [],
+    "advancedSettings": [
+      {
+        "change": "-20",
+        "buyRatio": "82",
+        "sellRatio": "92",
+        "rescueRatio": "85"
+      },
+      {
+        "change": "-18",
+        "buyRatio": "84",
+        "sellRatio": "94",
+        "rescueRatio": "90"
+      },
+      {
+        "change": "-15",
+        "buyRatio": "87",
+        "sellRatio": "93",
+        "rescueRatio": "91"
+      },
+      {
+        "change": "-12",
+        "buyRatio": "91.2",
+        "sellRatio": "94.6",
+        "rescueRatio": "93"
+      },
+      {
+        "change": "-11",
+        "buyRatio": "91.95",
+        "sellRatio": "95",
+        "rescueRatio": "93.4"
+      },
+      {
+        "change": "-10.5",
+        "buyRatio": "92.15",
+        "sellRatio": "95.1",
+        "rescueRatio": "93.4"
+      },
+      {
+        "change": "-10",
+        "buyRatio": "92.55",
+        "sellRatio": "95.5",
+        "rescueRatio": "93.9"
+      },
+      {
+        "change": "-9.5",
+        "buyRatio": "92.75",
+        "sellRatio": "95.7",
+        "rescueRatio": "94"
+      },
+      {
+        "change": "-9",
+        "buyRatio": "93.25",
+        "sellRatio": "95.8",
+        "rescueRatio": "94.4"
+      },
+      {
+        "change": "-8.5",
+        "buyRatio": "93.65",
+        "sellRatio": "95.8",
+        "rescueRatio": "94.7"
+      },
+      {
+        "change": "-8",
+        "buyRatio": "93.95",
+        "sellRatio": "96.1",
+        "rescueRatio": "95"
+      },
+      {
+        "change": "-7.5",
+        "buyRatio": "94.45",
+        "sellRatio": "96.5",
+        "rescueRatio": "95.5"
+      },
+      {
+        "change": "-7",
+        "buyRatio": "94.85",
+        "sellRatio": "96.9",
+        "rescueRatio": "95.9"
+      },
+      {
+        "change": "-6.5",
+        "buyRatio": "95.23",
+        "sellRatio": "97.3",
+        "rescueRatio": "96.3"
+      },
+      {
+        "change": "-6",
+        "buyRatio": "95.83",
+        "sellRatio": "97.6",
+        "rescueRatio": "96.8"
+      },
+      {
+        "change": "-5.5",
+        "buyRatio": "96.32",
+        "sellRatio": "97.9",
+        "rescueRatio": "97.3"
+      },
+      {
+        "change": "-5",
+        "buyRatio": "96.12",
+        "sellRatio": "97.6",
+        "rescueRatio": "97.2"
+      },
+      {
+        "change": "-4.5",
+        "buyRatio": "95.61",
+        "sellRatio": "98.2",
+        "rescueRatio": "97.2"
+      },
+      {
+        "change": "-4",
+        "buyRatio": "95.8",
+        "sellRatio": "98.4",
+        "rescueRatio": "97.1"
+      }
+    ],
+    "positions": [],
+    "blackList": [
+      "NDAU-USDT",
+      "SPI-USDT",
+      "TKO-USDT",
+      "CBC-USDT",
+      "JAR-USDT",
+      "PHNX-USDT",
+      "LPOOL-USDT",
+      "ACOIN-USDT",
+      "KOL-USDT",
+      "UNIC-USDT",
+      "BNS-USDT",
+      "VEED-USDT",
+      "KDON-USDT",
+      "ETHO-USDT",
+      "GRIN-USDT",
+      "SOLVE-USDT",
+      "MEM-USDT",
+      "VEGA-USDT",
+      "ILA-USDT",
+      "LYM-USDT",
+      "BONDLY-USDT",
+      "MTS-USDT",
+      "DAPPT-USDT",
+      "DPET-USDT",
+      "KAT-USDT",
+      "LACE-USDT",
+      "XEC-USDT",
+      "ORC-USDT",
+      "ADS-USDT",
+      "NGC-USDT",
+      "GGG-USDT",
+      "POWR-USDT",
+      "CTC-USDT",
+      "APL-USDT",
+      "PLGR-USDT",
+      "GEEQ-USDT",
+      "LOVE-USDT",
+      "AMP-USDT",
+      "STARLY-USDT",
+      "MARS4-USDT",
+      "LAVAX-USDT",
+      "WAL-USDT",
+      "BULL-USDT",
+      "SON-USDT",
+      "BICO-USDT",
+      "LMR-USDT",
+      "URUS-USDT",
+      "JAM-USDT",
+      "BNC-USDT",
+      "LBP-USDT",
+      "CFX-USDT",
+      "KP3R-USDT",
+      "TITAN-USDT",
+      "INDI-USDT",
+      "UPO-USDT",
+      "SPELL-USDT",
+      "SLCL-USDT",
+      "RPC-USDT",
+      "BETA-USDT",
+      "NHCT-USDT",
+      "ARNM-USDT",
+      "FRA-USDT",
+      "COCOS-USDT",
+      "ALPINE-USDT",
+      "VISION-USDT",
+      "BNX-USDT",
+      "ZBC-USDT",
+      "T-USDT",
+      "PSTAKE-USDT",
+      "MV-USDT",
+      "XDEFI-USDT",
+      "IDEX-USDT",
+      "BRWL-USDT",
+      "PLATO-USDT",
+      "TAUM-USDT",
+      "AURORA-USDT",
+      "COOHA-USDT",
+      "ITAMCUBE-USDT",
+      "PKF-USDT",
+      "EPX-USDT",
+      "FTG-USDT",
+      "STRONG-USDT",
+      "PLY-USDT",
+      "H2O-USDT",
+      "GMM-USDT",
+      "AKT-USDT",
+      "SIN-USDT",
+      "AUSD-USDT",
+      "BOBA-USDT",
+      "BIFI-USDT",
+      "DFA-USDT",
+      "FCD-USDT",
+      "MBL-USDT",
+      "CELT-USDT",
+      "DUSK-USDT",
+      "BSW-USDT",
+      "USDD-USDT",
+      "MBOX-USDT",
+      "MLS-USDT",
+      "AFK-USDT",
+      "ACH-USDT",
+      "SCRT-USDT",
+      "CCD-USDT",
+      "USTC-USDT",
+      "RBS-USDT",
+      "SRBS-USDT",
+      "EVER-USDT",
+      "ICX-USDT",
+      "WELL-USDT",
+      "FORT-USDT",
+      "USDP-USDT",
+      "CSPR-USDT",
+      "OLE-USDT",
+      "LDO-USDT",
+      "CULT-USDT",
+      "NIF-USDT",
+      "UMB-USDT",
+      "PIVX-USDT",
+      "CARR-USDT",
+      "FIDA-USDT",
+      "BUSD-USDT",
+      "RBP-USDT",
+      "SRBP-USDT",
+      "HIBAYC-USDT",
+      "OGV-USDT",
+      "WOMBAT-USDT",
+      "SWINGBY-USDT",
+      "XDB-USDT",
+      "TT-USDT",
+      "STEPWATCH-USDT",
+      "HISAND33-USDT",
+      "DC-USDT",
+      "NEER-USDT",
+      "RVN-USDT",
+      "PIX-USDT",
+      "MPLX-USDT",
+      "HIDOODLES-USDT",
+      "ETHW-USDT",
+      "QUARTZ-USDT",
+      "ACQ-USDT",
+      "AOG-USDT",
+      "HIMAYC-USDT",
+      "PRMX-USDT",
+      "RED-USDT"
+    ],
+    "advancedMode": true,
+    "userId": {
+      "$oid": "6168bb64ce780303ea7deb2c"
+    },
+    "shortId": "f2ltM8dxCJ",
+    "history": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1634253668669"
+      }
+    },
+    "modifiedAt": {
+      "$date": {
+        "$numberLong": "1634253668669"
+      }
+    },
+    "__v": 0,
+    "profiles": [
+      {
+        "tenMinuteChangeLimit": 6,
+        "advancedMode": true,
+        "advancedSettings": [
+          {
+            "change": "-20",
+            "buyRatio": "81.1",
+            "sellRatio": "91.1",
+            "rescueRatio": "86.4",
+            "rescueRatio2": "89.5"
+          },
+          {
+            "change": "-18",
+            "buyRatio": "83.1",
+            "sellRatio": "91.4",
+            "rescueRatio": "87.4",
+            "rescueRatio2": "89.5"
+          },
+          {
+            "change": "-15",
+            "buyRatio": "86.1",
+            "sellRatio": "91.4",
+            "rescueRatio": "88.4",
+            "rescueRatio2": "89.5"
+          },
+          {
+            "change": "-12",
+            "buyRatio": "89.1",
+            "sellRatio": "92.4",
+            "rescueRatio": "91",
+            "rescueRatio2": "89.5"
+          },
+          {
+            "change": "-10",
+            "buyRatio": "92.5",
+            "sellRatio": "94.9",
+            "rescueRatio": "93.7",
+            "rescueRatio2": "92.9"
+          },
+          {
+            "change": "-9",
+            "buyRatio": "93.1",
+            "sellRatio": "95.1",
+            "rescueRatio": "94.2",
+            "rescueRatio2": "93.5"
+          },
+          {
+            "change": "-8.5",
+            "buyRatio": "93.5",
+            "sellRatio": "95.5",
+            "rescueRatio": "94.6",
+            "rescueRatio2": "93.9"
+          },
+          {
+            "change": "-8",
+            "buyRatio": "93.8",
+            "sellRatio": "95.8",
+            "rescueRatio": "95",
+            "rescueRatio2": "94.2"
+          },
+          {
+            "change": "-7.5",
+            "buyRatio": "94.3",
+            "sellRatio": "96.2",
+            "rescueRatio": "95.3",
+            "rescueRatio2": "94.7"
+          },
+          {
+            "change": "-7",
+            "buyRatio": "94.7",
+            "sellRatio": "96.5",
+            "rescueRatio": "95.7",
+            "rescueRatio2": "95.1"
+          },
+          {
+            "change": "-6.5",
+            "buyRatio": "95.1",
+            "sellRatio": "96.9",
+            "rescueRatio": "96.2",
+            "rescueRatio2": "95.5"
+          },
+          {
+            "change": "-6",
+            "buyRatio": "95.6",
+            "sellRatio": "97.3",
+            "rescueRatio": "96.7",
+            "rescueRatio2": "96"
+          },
+          {
+            "change": "-5.5",
+            "buyRatio": "96.1",
+            "sellRatio": "97.6",
+            "rescueRatio": "97",
+            "rescueRatio2": "96.5"
+          },
+          {
+            "change": "-5",
+            "buyRatio": "96.2",
+            "sellRatio": "97.8",
+            "rescueRatio": "97.2",
+            "rescueRatio2": "96.6"
+          },
+          {
+            "change": "-4.5",
+            "buyRatio": "95.6",
+            "sellRatio": "98.2",
+            "rescueRatio": "97.2",
+            "rescueRatio2": "96"
+          },
+          {
+            "change": "-4",
+            "buyRatio": "95.8",
+            "sellRatio": "98.4",
+            "rescueRatio": "97.1",
+            "rescueRatio2": "96.2"
+          }
+        ],
+        "volumeSettings": [
+          {
+            "volume": 50000,
+            "currencyRatio": 1,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 100000,
+            "currencyRatio": 30,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 500000,
+            "currencyRatio": 90,
+            "maxCurrency": 0
+          }
+        ],
+        "multipleProcess": false,
+        "multipleProcessCurrencyRatio": 70,
+        "multipleProcessBuyLimitRatio": 130,
+        "multipleProcessSellLimitRatio": 140,
+        "enableHourFilter": false,
+        "stopLimitRatio": 0,
+        "stopLimitTime": 0,
+        "stopLimit2Ratio": 0,
+        "stopLimit2Time": 0,
+        "takeProfitTime": 25,
+        "takeProfitRatio": 30,
+        "detectFakePump": false,
+        "stopLimitEnabled": false,
+        "stopLimit2Enabled": false,
+        "dontStopAfterTrade": true,
+        "buyRatioMin": -4,
+        "buyRatioMax": 0,
+        "buyLimitRatio": 130,
+        "buyTime": 20000,
+        "multiProcessBuyTime": 0,
+        "sellRatio": 0,
+        "rescueRatio": 140,
+        "rescueTime": 15000,
+        "rescueTime2": 15001,
+        "currencyRatio": 90,
+        "maxCurrency": 500,
+        "buyWithAverageRatio": 30,
+        "buyWithAverageMinChange": -3,
+        "spreadSellCount": 0,
+        "spreadSellTickCount": 0,
+        "spreadSellMaxDifference": 0,
+        "spreadSell1": 0,
+        "spreadSell2": 0,
+        "spreadSellTakeProfit": 0,
+        "_id": {
+          "$oid": "62047e74d1cc00057784ece4"
+        },
+        "name": "standart"
+      },
+      {
+        "tenMinuteChangeLimit": 6,
+        "advancedMode": true,
+        "advancedSettings": [
+          {
+            "change": "-20",
+            "buyRatio": "81.4",
+            "sellRatio": "84.6",
+            "rescueRatio": "83.5",
+            "rescueRatio2": "83"
+          },
+          {
+            "change": "-19.5",
+            "buyRatio": "81.9",
+            "sellRatio": "85.1",
+            "rescueRatio": "84",
+            "rescueRatio2": "83.5"
+          },
+          {
+            "change": "-19",
+            "buyRatio": "82.4",
+            "sellRatio": "85.6",
+            "rescueRatio": "84.5",
+            "rescueRatio2": "84"
+          },
+          {
+            "change": "-18.5",
+            "buyRatio": "82.9",
+            "sellRatio": "88.1",
+            "rescueRatio": "86",
+            "rescueRatio2": "84.5"
+          },
+          {
+            "change": "-18",
+            "buyRatio": "83.4",
+            "sellRatio": "88.6",
+            "rescueRatio": "86.5",
+            "rescueRatio2": "85"
+          },
+          {
+            "change": "-17.5",
+            "buyRatio": "83.9",
+            "sellRatio": "89.1",
+            "rescueRatio": "87",
+            "rescueRatio2": "85.5"
+          },
+          {
+            "change": "-17",
+            "buyRatio": "84.4",
+            "sellRatio": "89.6",
+            "rescueRatio": "87.5",
+            "rescueRatio2": "86"
+          },
+          {
+            "change": "-16.5",
+            "buyRatio": "84.9",
+            "sellRatio": "90.1",
+            "rescueRatio": "88",
+            "rescueRatio2": "86.5"
+          },
+          {
+            "change": "-16",
+            "buyRatio": "85.4",
+            "sellRatio": "90.6",
+            "rescueRatio": "88.5",
+            "rescueRatio2": "87"
+          },
+          {
+            "change": "-15.5",
+            "buyRatio": "85.9",
+            "sellRatio": "91.1",
+            "rescueRatio": "89",
+            "rescueRatio2": "87.5"
+          },
+          {
+            "change": "-15",
+            "buyRatio": "86.4",
+            "sellRatio": "90.6",
+            "rescueRatio": "89.5",
+            "rescueRatio2": "88"
+          },
+          {
+            "change": "-14.5",
+            "buyRatio": "86.9",
+            "sellRatio": "91.1",
+            "rescueRatio": "90",
+            "rescueRatio2": "88.5"
+          },
+          {
+            "change": "-14",
+            "buyRatio": "87.4",
+            "sellRatio": "91.6",
+            "rescueRatio": "90.5",
+            "rescueRatio2": "89"
+          },
+          {
+            "change": "-13.5",
+            "buyRatio": "87.9",
+            "sellRatio": "92.1",
+            "rescueRatio": "91",
+            "rescueRatio2": "89.5"
+          },
+          {
+            "change": "-13",
+            "buyRatio": "88.4",
+            "sellRatio": "92.6",
+            "rescueRatio": "91.5",
+            "rescueRatio2": "90"
+          },
+          {
+            "change": "-12.5",
+            "buyRatio": "88.9",
+            "sellRatio": "93.1",
+            "rescueRatio": "92",
+            "rescueRatio2": "90.5"
+          },
+          {
+            "change": "-12",
+            "buyRatio": "89.4",
+            "sellRatio": "93.6",
+            "rescueRatio": "92.5",
+            "rescueRatio2": "91"
+          },
+          {
+            "change": "-11.5",
+            "buyRatio": "89.9",
+            "sellRatio": "94.1",
+            "rescueRatio": "93",
+            "rescueRatio2": "91.5"
+          },
+          {
+            "change": "-11",
+            "buyRatio": "90.4",
+            "sellRatio": "94.6",
+            "rescueRatio": "93.5",
+            "rescueRatio2": "92"
+          },
+          {
+            "change": "-10.5",
+            "buyRatio": "90.8",
+            "sellRatio": "95",
+            "rescueRatio": "93.9",
+            "rescueRatio2": "92.2"
+          },
+          {
+            "change": "-10",
+            "buyRatio": "91.3",
+            "sellRatio": "95.5",
+            "rescueRatio": "94.4",
+            "rescueRatio2": "92.7"
+          },
+          {
+            "change": "-9.5",
+            "buyRatio": "91.4",
+            "sellRatio": "94.6",
+            "rescueRatio": "93.6",
+            "rescueRatio2": "92.8"
+          },
+          {
+            "change": "-9",
+            "buyRatio": "91.5",
+            "sellRatio": "94.7",
+            "rescueRatio": "93.7",
+            "rescueRatio2": "92.9"
+          },
+          {
+            "change": "-8.5",
+            "buyRatio": "91.7",
+            "sellRatio": "94.9",
+            "rescueRatio": "93.9",
+            "rescueRatio2": "93"
+          },
+          {
+            "change": "-8",
+            "buyRatio": "92.1",
+            "sellRatio": "95.3",
+            "rescueRatio": "94.3",
+            "rescueRatio2": "93.4"
+          },
+          {
+            "change": "-7.5",
+            "buyRatio": "92.2",
+            "sellRatio": "95.4",
+            "rescueRatio": "94.4",
+            "rescueRatio2": "93.5"
+          },
+          {
+            "change": "-7",
+            "buyRatio": "92.7",
+            "sellRatio": "95.9",
+            "rescueRatio": "94.9",
+            "rescueRatio2": "94"
+          },
+          {
+            "change": "-6.5",
+            "buyRatio": "93.4",
+            "sellRatio": "96.6",
+            "rescueRatio": "95.6",
+            "rescueRatio2": "94.6"
+          },
+          {
+            "change": "-6",
+            "buyRatio": "93.8",
+            "sellRatio": "97",
+            "rescueRatio": "96",
+            "rescueRatio2": "95"
+          },
+          {
+            "change": "-5.5",
+            "buyRatio": "94.3",
+            "sellRatio": "97.5",
+            "rescueRatio": "96.5",
+            "rescueRatio2": "95.5"
+          },
+          {
+            "change": "-5",
+            "buyRatio": "94.8",
+            "sellRatio": "98",
+            "rescueRatio": "97",
+            "rescueRatio2": "96"
+          },
+          {
+            "change": "-4.5",
+            "buyRatio": "93",
+            "sellRatio": "96.5",
+            "rescueRatio": "95.5",
+            "rescueRatio2": "94.5"
+          },
+          {
+            "change": "-4",
+            "buyRatio": "90.5",
+            "sellRatio": "95.5",
+            "rescueRatio": "93.3",
+            "rescueRatio2": "92.5"
+          },
+          {
+            "change": "-3.5",
+            "buyRatio": "90",
+            "rescueRatio": "93",
+            "rescueRatio2": "92",
+            "sellRatio": "94.5"
+          }
+        ],
+        "volumeSettings": [
+          {
+            "volume": 10000,
+            "currencyRatio": 15,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 20000,
+            "currencyRatio": 25,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 40000,
+            "currencyRatio": 50,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 60000,
+            "currencyRatio": 70,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 100000,
+            "currencyRatio": 85,
+            "maxCurrency": 0
+          }
+        ],
+        "multipleProcess": false,
+        "multipleProcessCurrencyRatio": 70,
+        "multipleProcessBuyLimitRatio": 130,
+        "multipleProcessSellLimitRatio": 140,
+        "enableHourFilter": false,
+        "stopLimitRatio": 0,
+        "stopLimitTime": 0,
+        "stopLimit2Ratio": 0,
+        "stopLimit2Time": 0,
+        "takeProfitTime": 15,
+        "takeProfitRatio": 0.35,
+        "detectFakePump": false,
+        "stopLimitEnabled": false,
+        "stopLimit2Enabled": false,
+        "dontStopAfterTrade": true,
+        "buyRatioMin": -3.5,
+        "buyRatioMax": 0,
+        "buyLimitRatio": 130,
+        "buyTime": 120000,
+        "multiProcessBuyTime": 0,
+        "sellRatio": 0,
+        "rescueRatio": 140,
+        "rescueTime": 15000,
+        "rescueTime2": 180000,
+        "currencyRatio": 85,
+        "maxCurrency": 150,
+        "buyWithAverageRatio": 30,
+        "buyWithAverageMinChange": -3,
+        "spreadSellCount": 5,
+        "spreadSellTickCount": 2,
+        "spreadSellMaxDifference": 1,
+        "spreadSell1": 1,
+        "spreadSell2": 1,
+        "spreadSellTakeProfit": 0,
+        "_id": {
+          "$oid": "61f23373b400cb2444a03e57"
+        },
+        "name": "Uyku-USDT"
+      },
+      {
+        "tenMinuteChangeLimit": 6,
+        "advancedMode": true,
+        "advancedSettings": [
+          {
+            "change": "-20",
+            "buyRatio": "84.1",
+            "sellRatio": "94.9",
+            "rescueRatio": "91.9",
+            "rescueRatio2": "85.4"
+          },
+          {
+            "change": "-19.5",
+            "buyRatio": "84.5",
+            "sellRatio": "95",
+            "rescueRatio": "92",
+            "rescueRatio2": "85.8"
+          },
+          {
+            "change": "-19",
+            "buyRatio": "84.9",
+            "sellRatio": "95.1",
+            "rescueRatio": "92.2",
+            "rescueRatio2": "86.2"
+          },
+          {
+            "change": "-18.5",
+            "buyRatio": "85.3",
+            "sellRatio": "95.2",
+            "rescueRatio": "92.4",
+            "rescueRatio2": "86.6"
+          },
+          {
+            "change": "-18",
+            "buyRatio": "85.7",
+            "sellRatio": "95.3",
+            "rescueRatio": "92.5",
+            "rescueRatio2": "87"
+          },
+          {
+            "change": "-17.5",
+            "buyRatio": "86.1",
+            "sellRatio": "95.4",
+            "rescueRatio": "92.6",
+            "rescueRatio2": "87.4"
+          },
+          {
+            "change": "-17",
+            "buyRatio": "86.5",
+            "sellRatio": "95.5",
+            "rescueRatio": "92.8",
+            "rescueRatio2": "87.7"
+          },
+          {
+            "change": "-16.5",
+            "buyRatio": "86.9",
+            "sellRatio": "95.6",
+            "rescueRatio": "93",
+            "rescueRatio2": "88.1"
+          },
+          {
+            "change": "-16",
+            "buyRatio": "87.3",
+            "sellRatio": "95.7",
+            "rescueRatio": "93.2",
+            "rescueRatio2": "88.5"
+          },
+          {
+            "change": "-15.5",
+            "buyRatio": "87.7",
+            "sellRatio": "95.8",
+            "rescueRatio": "93.3",
+            "rescueRatio2": "88.9"
+          },
+          {
+            "change": "-15",
+            "buyRatio": "88.1",
+            "sellRatio": "95.9",
+            "rescueRatio": "93.5",
+            "rescueRatio2": "89.3"
+          },
+          {
+            "change": "-14.5",
+            "buyRatio": "88.5",
+            "sellRatio": "96",
+            "rescueRatio": "93.6",
+            "rescueRatio2": "89.7"
+          },
+          {
+            "change": "-14",
+            "buyRatio": "88.9",
+            "sellRatio": "96.1",
+            "rescueRatio": "93.8",
+            "rescueRatio2": "90.1"
+          },
+          {
+            "change": "-13.5",
+            "buyRatio": "89.3",
+            "sellRatio": "96.2",
+            "rescueRatio": "93.9",
+            "rescueRatio2": "90.5"
+          },
+          {
+            "change": "-13",
+            "buyRatio": "89.7",
+            "sellRatio": "96.2",
+            "rescueRatio": "94.1",
+            "rescueRatio2": "90.9"
+          },
+          {
+            "change": "-12.5",
+            "buyRatio": "90.1",
+            "sellRatio": "96.3",
+            "rescueRatio": "94.2",
+            "rescueRatio2": "91.3"
+          },
+          {
+            "change": "-12",
+            "buyRatio": "90.5",
+            "sellRatio": "96.3",
+            "rescueRatio": "94.3",
+            "rescueRatio2": "91.6"
+          },
+          {
+            "change": "-11.5",
+            "buyRatio": "90.9",
+            "sellRatio": "96.4",
+            "rescueRatio": "94.4",
+            "rescueRatio2": "92"
+          },
+          {
+            "change": "-11",
+            "buyRatio": "91.3",
+            "sellRatio": "96.5",
+            "rescueRatio": "94.6",
+            "rescueRatio2": "92.4"
+          },
+          {
+            "change": "-10.5",
+            "buyRatio": "91.7",
+            "sellRatio": "96.6",
+            "rescueRatio": "94.8",
+            "rescueRatio2": "93.2"
+          },
+          {
+            "change": "-10",
+            "buyRatio": "92.1",
+            "sellRatio": "97.3",
+            "rescueRatio": "95.4",
+            "rescueRatio2": "93.6"
+          },
+          {
+            "change": "-9.5",
+            "buyRatio": "92.5",
+            "sellRatio": "96.9",
+            "rescueRatio": "95.7",
+            "rescueRatio2": "93.8"
+          },
+          {
+            "change": "-9",
+            "buyRatio": "92.9",
+            "sellRatio": "97.1",
+            "rescueRatio": "95.8",
+            "rescueRatio2": "94.2"
+          },
+          {
+            "change": "-8.5",
+            "buyRatio": "93.3",
+            "sellRatio": "97.1",
+            "rescueRatio": "96.1",
+            "rescueRatio2": "94.5"
+          },
+          {
+            "change": "-8",
+            "buyRatio": "93.7",
+            "sellRatio": "97.3",
+            "rescueRatio": "96.4",
+            "rescueRatio2": "94.9"
+          },
+          {
+            "change": "-7.5",
+            "buyRatio": "94.2",
+            "sellRatio": "97.5",
+            "rescueRatio": "96.7",
+            "rescueRatio2": "95.2"
+          },
+          {
+            "change": "-7",
+            "buyRatio": "94.6",
+            "sellRatio": "97.9",
+            "rescueRatio": "96.9",
+            "rescueRatio2": "95.6"
+          },
+          {
+            "change": "-6.5",
+            "buyRatio": "94.9",
+            "sellRatio": "98",
+            "rescueRatio": "97.1",
+            "rescueRatio2": "95.9"
+          },
+          {
+            "change": "-6",
+            "buyRatio": "95.4",
+            "sellRatio": "98.1",
+            "rescueRatio": "97.4",
+            "rescueRatio2": "96.3"
+          },
+          {
+            "change": "-5.5",
+            "buyRatio": "95.7",
+            "sellRatio": "98.2",
+            "rescueRatio": "97.6",
+            "rescueRatio2": "96.7"
+          },
+          {
+            "change": "-5",
+            "buyRatio": "96.2",
+            "sellRatio": "98.3",
+            "rescueRatio": "97.6",
+            "rescueRatio2": "97.1"
+          },
+          {
+            "change": "-4.5",
+            "buyRatio": "96.5",
+            "sellRatio": "97.6",
+            "rescueRatio": "97.3",
+            "rescueRatio2": "97"
+          }
+        ],
+        "volumeSettings": [
+          {
+            "volume": 0.5,
+            "currencyRatio": 30,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 2.5,
+            "currencyRatio": 50,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 5,
+            "currencyRatio": 70,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 7.5,
+            "currencyRatio": 90,
+            "maxCurrency": 0
+          }
+        ],
+        "multipleProcess": false,
+        "multipleProcessCurrencyRatio": 70,
+        "multipleProcessBuyLimitRatio": 130,
+        "multipleProcessSellLimitRatio": 140,
+        "enableHourFilter": false,
+        "stopLimitRatio": 0,
+        "stopLimitTime": 0,
+        "stopLimit2Ratio": 0,
+        "stopLimit2Time": 0,
+        "takeProfitTime": 5,
+        "takeProfitRatio": 0.35,
+        "detectFakePump": false,
+        "stopLimitEnabled": false,
+        "stopLimit2Enabled": false,
+        "dontStopAfterTrade": true,
+        "buyRatioMin": -4.5,
+        "buyRatioMax": 0,
+        "buyLimitRatio": 130,
+        "buyTime": 60000,
+        "multiProcessBuyTime": 0,
+        "sellRatio": 0,
+        "rescueRatio": 140,
+        "rescueTime": 60000,
+        "rescueTime2": 300000,
+        "currencyRatio": 85,
+        "maxCurrency": 0.002,
+        "buyWithAverageRatio": 30,
+        "buyWithAverageMinChange": -3.5,
+        "spreadSellCount": 0,
+        "spreadSellTickCount": 0,
+        "spreadSellMaxDifference": 0,
+        "spreadSell1": 0,
+        "spreadSell2": 0,
+        "spreadSellTakeProfit": 0,
+        "_id": {
+          "$oid": "61f23373b400cb2444a03e57"
+        },
+        "name": "Standart-BTC"
+      },
+      {
+        "tenMinuteChangeLimit": 6,
+        "advancedMode": true,
+        "advancedSettings": [
+          {
+            "change": "-20",
+            "buyRatio": "82",
+            "sellRatio": "95",
+            "rescueRatio": "92",
+            "rescueRatio2": "85"
+          },
+          {
+            "change": "-18",
+            "buyRatio": "84",
+            "sellRatio": "96",
+            "rescueRatio": "94",
+            "rescueRatio2": "90"
+          },
+          {
+            "change": "-15",
+            "buyRatio": "87",
+            "sellRatio": "95",
+            "rescueRatio": "93",
+            "rescueRatio2": "91"
+          },
+          {
+            "change": "-12",
+            "buyRatio": "91.2",
+            "sellRatio": "97",
+            "rescueRatio": "94.6",
+            "rescueRatio2": "93"
+          },
+          {
+            "change": "-11",
+            "buyRatio": "91.95",
+            "sellRatio": "97",
+            "rescueRatio": "95",
+            "rescueRatio2": "93.4"
+          },
+          {
+            "change": "-10.5",
+            "buyRatio": "92.15",
+            "sellRatio": "97",
+            "rescueRatio": "95.1",
+            "rescueRatio2": "93.4"
+          },
+          {
+            "change": "-10",
+            "buyRatio": "92.55",
+            "sellRatio": "97",
+            "rescueRatio": "95.5",
+            "rescueRatio2": "93.9"
+          },
+          {
+            "change": "-9.5",
+            "buyRatio": "92.75",
+            "sellRatio": "98",
+            "rescueRatio": "95.7",
+            "rescueRatio2": "94"
+          },
+          {
+            "change": "-9",
+            "buyRatio": "93.25",
+            "sellRatio": "98",
+            "rescueRatio": "95.8",
+            "rescueRatio2": "94.4"
+          },
+          {
+            "change": "-8.5",
+            "buyRatio": "93.65",
+            "sellRatio": "97.5",
+            "rescueRatio": "95.8",
+            "rescueRatio2": "94.7"
+          },
+          {
+            "change": "-8",
+            "buyRatio": "93.95",
+            "sellRatio": "98",
+            "rescueRatio": "96.1",
+            "rescueRatio2": "95"
+          },
+          {
+            "change": "-7.5",
+            "buyRatio": "94.45",
+            "sellRatio": "98",
+            "rescueRatio": "96.5",
+            "rescueRatio2": "95.5"
+          },
+          {
+            "change": "-7",
+            "buyRatio": "94.85",
+            "sellRatio": "98.4",
+            "rescueRatio": "96.9",
+            "rescueRatio2": "95.9"
+          },
+          {
+            "change": "-6.5",
+            "buyRatio": "95.23",
+            "sellRatio": "98",
+            "rescueRatio": "97.3",
+            "rescueRatio2": "96.3"
+          },
+          {
+            "change": "-6",
+            "buyRatio": "95.83",
+            "sellRatio": "98.2",
+            "rescueRatio": "97.6",
+            "rescueRatio2": "96.8"
+          },
+          {
+            "change": "-5.5",
+            "buyRatio": "96.32",
+            "sellRatio": "98.4",
+            "rescueRatio": "97.9",
+            "rescueRatio2": "97.3"
+          },
+          {
+            "change": "-5",
+            "buyRatio": "96.12",
+            "sellRatio": "98",
+            "rescueRatio": "97.6",
+            "rescueRatio2": "97.2"
+          },
+          {
+            "change": "-4.5",
+            "buyRatio": "95.61",
+            "sellRatio": "98.6",
+            "rescueRatio": "98.2",
+            "rescueRatio2": "97.2"
+          },
+          {
+            "change": "-4",
+            "buyRatio": "95.8",
+            "sellRatio": "98.9",
+            "rescueRatio": "98.4",
+            "rescueRatio2": "97.1"
+          }
+        ],
+        "volumeSettings": [
+          {
+            "volume": 50000,
+            "currencyRatio": 1,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 100000,
+            "currencyRatio": 30,
+            "maxCurrency": 0
+          },
+          {
+            "volume": 500000,
+            "currencyRatio": 90,
+            "maxCurrency": 0
+          }
+        ],
+        "multipleProcess": false,
+        "multipleProcessCurrencyRatio": 70,
+        "multipleProcessBuyLimitRatio": 130,
+        "multipleProcessSellLimitRatio": 140,
+        "enableHourFilter": false,
+        "stopLimitRatio": 0,
+        "stopLimitTime": 0,
+        "stopLimit2Ratio": 0,
+        "stopLimit2Time": 0,
+        "takeProfitTime": 25,
+        "takeProfitRatio": 30,
+        "detectFakePump": false,
+        "stopLimitEnabled": false,
+        "stopLimit2Enabled": false,
+        "dontStopAfterTrade": true,
+        "buyRatioMin": -4,
+        "buyRatioMax": 0,
+        "buyLimitRatio": 130,
+        "buyTime": 20000,
+        "multiProcessBuyTime": 0,
+        "sellRatio": 0,
+        "rescueRatio": 140,
+        "rescueTime": 15000,
+        "rescueTime2": 7000,
+        "currencyRatio": 80,
+        "maxCurrency": 150,
+        "buyWithAverageRatio": 30,
+        "buyWithAverageMinChange": -3,
+        "spreadSellCount": 0,
+        "spreadSellTickCount": 0,
+        "spreadSellMaxDifference": 0,
+        "spreadSell1": 0,
+        "spreadSell2": 0,
+        "spreadSellTakeProfit": 0,
+        "_id": {
+          "$oid": "62049d715adb7d1065bf9634"
+        },
+        "name": "riskli"
+      }
+    ],
+    "marketSettings": {
+      "USDT": {
+        "selectedProfile": 3,
+        "active": true
+      },
+      "BTC": {
+        "selectedProfile": 2,
+        "active": true
+      }
+    },
+    "telegramSettings": {},
+    "telegramToken": ""
+  }
